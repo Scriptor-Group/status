@@ -1,5 +1,5 @@
 # Change these first
-owner: scriptor-group # Your GitHub organization or username, where this repository lives
+owner: Scriptor-Group # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
@@ -86,7 +86,7 @@ status-website:
   cname: status.scriptor-artis.fr
   # baseUrl: /your-repo-name
   logoUrl: https://chat-pictures-prod.s3.fr-par.scw.cloud/6a63b5c3-5c7b-4d09-a924-dbec9ef12b21
-  name: Scriptor-artis
+  name: Scriptor-Artis
   introTitle: "Services **Upptime**"
   introMessage: "Affiche l'état des serveurs de scriptor-artis."
   navbar:
