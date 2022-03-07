@@ -33,16 +33,16 @@ sites:
       - 200
       - 201
       - 404
-   - name: SMTP
-     check: "tcp-ping"
-     url: 163.172.93.27
-     port: 465
-   - name: SMTP 2
-     check: "tcp-ping"
-     url: 163.172.44.120
-     port: 465
-   - name: Webmail 1
-     url: https://webmail.clavus.io
+  - name: SMTP
+    check: "tcp-ping"
+    url: 163.172.93.27
+    port: 465
+  - name: SMTP 2
+    check: "tcp-ping"
+    url: 163.172.44.120
+    port: 465
+  - name: Webmail 1
+    url: https://webmail.clavus.io
      
 
 status-website:
