@@ -11,14 +11,26 @@ sites:
       - 200
       - 201
       - 404
-  - name: Clavus Website (1)
+  - name: Clavus Website (Public 1)
     url: https://www.clavus.io
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: Clavus Website (2)
+  - name: Clavus Website (Public 1)
     url: https://tzar.clavus.cloud
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Clavus Website (C1)
+    url: $CLIENT1
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Clavus Website (C2)
+    url: $CLIENT2
     expectedStatusCodes:
       - 200
       - 201
@@ -53,6 +65,18 @@ sites:
     url: https://meet.clavus.io/
   - name: Webmail 1
     url: https://webmail.clavus.io
+  - name: P1 Server
+    check: "tcp-ping"
+    url: $PRODUCTION1
+    port: 3001
+  - name: P2 Server
+    check: "tcp-ping"
+    url: $PRODUCTION2
+    port: 3001
+  - name: P3 Server
+    check: "tcp-ping"
+    url: $PRODUCTION3
+    port: 3001
      
 
 status-website:
@@ -60,7 +84,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.scriptor-artis.fr
   # baseUrl: /your-repo-name
-  logoUrl: https://clavus.io/static/svg/homepage/logo.svg
+  logoUrl: https://chat-pictures-prod.s3.fr-par.scw.cloud/6a63b5c3-5c7b-4d09-a924-dbec9ef12b21
   name: Scriptor-artis
   introTitle: "Services **Upptime**"
   introMessage: "Affiche l'état des serveurs de scriptor-artis."
