@@ -1,22 +1,22 @@
 [
   {
     "name": "Clavus API",
-    "url": "https://api-v2.clavus.io",
+    "url": "https://api-v2.clavus.io/health",
     "icon": "https://favicons.githubusercontent.com/api-v2.clavus.io",
     "slug": "clavus-api",
     "status": "down",
-    "uptime": "8.99%",
-    "uptimeDay": "8.99%",
-    "uptimeWeek": "8.99%",
-    "uptimeMonth": "8.99%",
-    "uptimeYear": "8.99%",
-    "time": 366,
-    "timeDay": 366,
-    "timeWeek": 366,
-    "timeMonth": 366,
-    "timeYear": 366,
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2022-03-07": 0
+      "2022-03-07": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 969,
-    "timeDay": 969,
-    "timeWeek": 969,
-    "timeMonth": 969,
-    "timeYear": 969,
+    "time": 1278,
+    "timeDay": 1278,
+    "timeWeek": 1278,
+    "timeMonth": 1278,
+    "timeYear": 1278,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1807,
-    "timeDay": 1807,
-    "timeWeek": 1807,
-    "timeMonth": 1807,
-    "timeYear": 1807,
+    "time": 2223,
+    "timeDay": 2223,
+    "timeWeek": 2223,
+    "timeMonth": 2223,
+    "timeYear": 2223,
     "dailyMinutesDown": {}
   },
   {
@@ -66,31 +66,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1177,
-    "timeDay": 1177,
-    "timeWeek": 1177,
-    "timeMonth": 1177,
-    "timeYear": 1177,
+    "time": 1485,
+    "timeDay": 1485,
+    "timeWeek": 1485,
+    "timeMonth": 1485,
+    "timeYear": 1485,
     "dailyMinutesDown": {}
   },
   {
     "name": "Tzar API",
-    "url": "https://api.tzar.fr",
+    "url": "https://api.tzar.fr/health",
     "icon": "https://favicons.githubusercontent.com/api.tzar.fr",
     "slug": "tzar-api",
     "status": "down",
-    "uptime": "28.86%",
-    "uptimeDay": "28.86%",
-    "uptimeWeek": "28.86%",
-    "uptimeMonth": "28.86%",
-    "uptimeYear": "28.86%",
-    "time": 794,
-    "timeDay": 794,
-    "timeWeek": 794,
-    "timeMonth": 794,
-    "timeYear": 794,
+    "uptime": "2.08%",
+    "uptimeDay": "2.08%",
+    "uptimeWeek": "2.08%",
+    "uptimeMonth": "2.08%",
+    "uptimeYear": "2.08%",
+    "time": 1071,
+    "timeDay": 1071,
+    "timeWeek": 1071,
+    "timeMonth": 1071,
+    "timeYear": 1071,
     "dailyMinutesDown": {
-      "2022-03-07": 0
+      "2022-03-07": 2
     }
   }
 ]
