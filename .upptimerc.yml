@@ -3,6 +3,8 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: Scriptor-artis Website
+    url: https://www.scriptor-artis.com
   - name: Clavus API
     url: https://api-v2.clavus.io/health
     expectedStatusCodes:
@@ -15,12 +17,14 @@ sites:
       - 200
       - 201
       - 404
-  - name: Clavus Front-end (2)
+  - name: Clavus Website (2)
     url: https://tzar.clavus.cloud
     expectedStatusCodes:
       - 200
       - 201
       - 404
+  - name: Whitemark systems
+    url: http://wm.clavus.io/
   - name: Tzar Website
     url: https://www.tzar.fr
     expectedStatusCodes:
@@ -33,14 +37,20 @@ sites:
       - 200
       - 201
       - 404
-  - name: SMTP
+  - name: SMTP 1 (clavus.io)
     check: "tcp-ping"
     url: 163.172.93.27
     port: 465
-  - name: SMTP 2
+  - name: SMTP 2 (private)
     check: "tcp-ping"
     url: 163.172.44.120
     port: 465
+  - name: Office A
+    url: https://office-a.clavus.io/welcome/
+  - name: Office B
+    url: https://office-b.clavus.io/welcome/
+  - name: Meet (visio)
+    url: https://meet.clavus.io/
   - name: Webmail 1
     url: https://webmail.clavus.io
      
