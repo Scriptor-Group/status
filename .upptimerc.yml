@@ -77,7 +77,8 @@ sites:
     check: "tcp-ping"
     url: $PRODUCTION3
     port: 3001
-     
+  - name: Devana.ai Website
+    url: https://www.devana.ai
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
