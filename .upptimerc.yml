@@ -77,6 +77,8 @@ sites:
     check: "tcp-ping"
     url: $PRODUCTION3
     port: 3001
+  - name: Test down service
+    url: https://myponeyclubbarbyeee.fr/
      
 
 status-website:
