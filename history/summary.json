@@ -258,19 +258,19 @@
     "url": "https://webmail.clavus.io",
     "icon": "https://favicons.githubusercontent.com/webmail.clavus.io",
     "slug": "webmail-1",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 911,
-    "timeDay": 800,
-    "timeWeek": 911,
-    "timeMonth": 911,
-    "timeYear": 911,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 920,
+    "timeDay": 909,
+    "timeWeek": 920,
+    "timeMonth": 920,
+    "timeYear": 920,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 8
     }
   },
   {
@@ -333,18 +333,18 @@
     "icon": "https://favicons.githubusercontent.com/www.devana.ai",
     "slug": "devana-ai-website",
     "status": "down",
-    "uptime": "83.76%",
-    "uptimeDay": "76.66%",
-    "uptimeWeek": "83.76%",
-    "uptimeMonth": "83.76%",
-    "uptimeYear": "83.76%",
+    "uptime": "83.42%",
+    "uptimeDay": "76.08%",
+    "uptimeWeek": "83.42%",
+    "uptimeMonth": "83.42%",
+    "uptimeYear": "83.42%",
     "time": 1032,
     "timeDay": 1103,
     "timeWeek": 1032,
     "timeMonth": 1032,
     "timeYear": 1032,
     "dailyMinutesDown": {
-      "2022-03-09": 179,
+      "2022-03-09": 187,
       "2022-03-08": 157
     }
   }
