@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/api-v2.clavus.io",
     "slug": "clavus-api",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 538,
     "timeDay": 388,
     "timeWeek": 538,
@@ -132,9 +132,9 @@
     "url": "https://www.tzar.fr",
     "icon": "https://favicons.githubusercontent.com/www.tzar.fr",
     "slug": "tzar-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,16 +143,18 @@
     "timeWeek": 1374,
     "timeMonth": 1374,
     "timeYear": 1374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-12": 0
+    }
   },
   {
     "name": "Tzar API",
     "url": "https://api.tzar.fr/health",
     "icon": "https://favicons.githubusercontent.com/api.tzar.fr",
     "slug": "tzar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +163,9 @@
     "timeWeek": 1066,
     "timeMonth": 1066,
     "timeYear": 1066,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-12": 0
+    }
   },
   {
     "name": "SMTP 1 (clavus.io)",
@@ -259,19 +263,17 @@
     "icon": "https://favicons.githubusercontent.com/webmail.clavus.io",
     "slug": "webmail-1",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 897,
     "timeDay": 731,
     "timeWeek": 897,
     "timeMonth": 897,
     "timeYear": 897,
-    "dailyMinutesDown": {
-      "2022-03-12": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "P1 Server",
@@ -333,18 +335,18 @@
     "icon": "https://favicons.githubusercontent.com/www.devana.ai",
     "slug": "devana-ai-website",
     "status": "down",
-    "uptime": "27.09%",
+    "uptime": "25.94%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "27.09%",
-    "uptimeMonth": "27.09%",
-    "uptimeYear": "27.09%",
+    "uptimeWeek": "25.94%",
+    "uptimeMonth": "25.94%",
+    "uptimeYear": "25.94%",
     "time": 969,
     "timeDay": 640,
     "timeWeek": 969,
     "timeMonth": 969,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2022-03-12": 187,
+      "2022-03-12": 472,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
