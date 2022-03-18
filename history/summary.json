@@ -132,19 +132,19 @@
     "url": "https://www.tzar.fr",
     "icon": "https://favicons.githubusercontent.com/www.tzar.fr",
     "slug": "tzar-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1334,
-    "timeDay": 1378,
-    "timeWeek": 1221,
-    "timeMonth": 1334,
-    "timeYear": 1334,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1349,
+    "timeDay": 1575,
+    "timeWeek": 1276,
+    "timeMonth": 1349,
+    "timeYear": 1349,
     "dailyMinutesDown": {
-      "2022-03-18": 0
+      "2022-03-18": 7
     }
   },
   {
@@ -152,19 +152,19 @@
     "url": "https://api.tzar.fr/health",
     "icon": "https://favicons.githubusercontent.com/api.tzar.fr",
     "slug": "tzar-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1019,
-    "timeDay": 1095,
-    "timeWeek": 894,
-    "timeMonth": 1019,
-    "timeYear": 1019,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1024,
+    "timeDay": 1130,
+    "timeWeek": 921,
+    "timeMonth": 1024,
+    "timeYear": 1024,
     "dailyMinutesDown": {
-      "2022-03-18": 0
+      "2022-03-18": 7
     }
   },
   {
@@ -346,7 +346,7 @@
     "timeMonth": 955,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2022-03-18": 337,
+      "2022-03-18": 344,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
