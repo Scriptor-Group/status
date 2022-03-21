@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/api-v2.clavus.io",
     "slug": "clavus-api",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 529,
     "timeDay": 520,
     "timeWeek": 511,
@@ -132,9 +132,9 @@
     "url": "https://www.tzar.fr",
     "icon": "https://favicons.githubusercontent.com/www.tzar.fr",
     "slug": "tzar-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,16 +143,18 @@
     "timeWeek": 1374,
     "timeMonth": 1358,
     "timeYear": 1358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 0
+    }
   },
   {
     "name": "Tzar API",
     "url": "https://api.tzar.fr/health",
     "icon": "https://favicons.githubusercontent.com/api.tzar.fr",
     "slug": "tzar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +163,9 @@
     "timeWeek": 950,
     "timeMonth": 1013,
     "timeYear": 1013,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 0
+    }
   },
   {
     "name": "SMTP 1 (clavus.io)",
@@ -265,8 +269,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 921,
-    "timeDay": 938,
-    "timeWeek": 955,
+    "timeDay": 952,
+    "timeWeek": 897,
     "timeMonth": 921,
     "timeYear": 921,
     "dailyMinutesDown": {}
@@ -331,18 +335,18 @@
     "icon": "https://favicons.githubusercontent.com/www.devana.ai",
     "slug": "devana-ai-website",
     "status": "down",
-    "uptime": "9.04%",
+    "uptime": "8.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.04%",
-    "uptimeYear": "9.04%",
+    "uptimeMonth": "8.80%",
+    "uptimeYear": "8.80%",
     "time": 969,
     "timeDay": 1048,
     "timeWeek": 949,
     "timeMonth": 969,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2022-03-21": 12,
+      "2022-03-21": 521,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
       "2022-03-18": 1440,
