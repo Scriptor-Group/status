@@ -156,8 +156,8 @@
     "uptimeYear": "100.00%",
     "time": 999,
     "timeDay": 948,
-    "timeWeek": 1086,
-    "timeMonth": 995,
+    "timeWeek": 977,
+    "timeMonth": 999,
     "timeYear": 999,
     "dailyMinutesDown": {}
   },
@@ -238,9 +238,9 @@
     "url": "https://meet.clavus.io/",
     "icon": "https://favicons.githubusercontent.com/meet.clavus.io",
     "slug": "meet-visio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -249,7 +249,9 @@
     "timeWeek": 656,
     "timeMonth": 668,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-28": 0
+    }
   },
   {
     "name": "Webmail 1",
@@ -263,7 +265,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 927,
-    "timeDay": 951,
+    "timeDay": 990,
     "timeWeek": 938,
     "timeMonth": 912,
     "timeYear": 927,
