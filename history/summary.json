@@ -238,19 +238,19 @@
     "url": "https://meet.clavus.io/",
     "icon": "https://favicons.githubusercontent.com/meet.clavus.io",
     "slug": "meet-visio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 554,
-    "timeWeek": 656,
-    "timeMonth": 668,
-    "timeYear": 697,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 694,
+    "timeDay": 530,
+    "timeWeek": 637,
+    "timeMonth": 663,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2022-04-28": 0
+      "2022-04-28": 14
     }
   },
   {
