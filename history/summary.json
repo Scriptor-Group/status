@@ -148,9 +148,9 @@
     "url": "https://api.tzar.fr/health",
     "icon": "https://favicons.githubusercontent.com/api.tzar.fr",
     "slug": "tzar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +159,9 @@
     "timeWeek": 965,
     "timeMonth": 1005,
     "timeYear": 1000,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-29": 0
+    }
   },
   {
     "name": "SMTP 1 (clavus.io)",
@@ -264,8 +266,8 @@
     "uptimeYear": "100.00%",
     "time": 928,
     "timeDay": 1107,
-    "timeWeek": 939,
-    "timeMonth": 923,
+    "timeWeek": 928,
+    "timeMonth": 908,
     "timeYear": 928,
     "dailyMinutesDown": {}
   },
