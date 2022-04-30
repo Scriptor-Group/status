@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1004,
-    "timeDay": 1279,
+    "timeDay": 1178,
     "timeWeek": 981,
     "timeMonth": 924,
     "timeYear": 1004,
@@ -130,36 +130,40 @@
     "url": "https://www.tzar.fr",
     "icon": "https://favicons.githubusercontent.com/www.tzar.fr",
     "slug": "tzar-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1336,
     "timeDay": 1072,
     "timeWeek": 1313,
-    "timeMonth": 1295,
+    "timeMonth": 1300,
     "timeYear": 1336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-30": 0
+    }
   },
   {
     "name": "Tzar API",
     "url": "https://api.tzar.fr/health",
     "icon": "https://favicons.githubusercontent.com/api.tzar.fr",
     "slug": "tzar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 995,
-    "timeDay": 769,
+    "timeDay": 756,
     "timeWeek": 926,
-    "timeMonth": 1001,
+    "timeMonth": 1007,
     "timeYear": 995,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-30": 0
+    }
   },
   {
     "name": "SMTP 1 (clavus.io)",
