@@ -130,36 +130,40 @@
     "url": "https://www.tzar.fr",
     "icon": "https://favicons.githubusercontent.com/www.tzar.fr",
     "slug": "tzar-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1326,
     "timeDay": 1095,
     "timeWeek": 1220,
-    "timeMonth": 1302,
+    "timeMonth": 1307,
     "timeYear": 1326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-03": 0
+    }
   },
   {
     "name": "Tzar API",
     "url": "https://api.tzar.fr/health",
     "icon": "https://favicons.githubusercontent.com/api.tzar.fr",
     "slug": "tzar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 985,
     "timeDay": 768,
     "timeWeek": 872,
-    "timeMonth": 998,
+    "timeMonth": 1003,
     "timeYear": 985,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-03": 0
+    }
   },
   {
     "name": "SMTP 1 (clavus.io)",
@@ -221,11 +225,11 @@
     "icon": "https://favicons.githubusercontent.com/office-b.clavus.io",
     "slug": "office-b",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.46%",
     "uptimeMonth": "98.27%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 576,
     "timeDay": 430,
     "timeWeek": 522,
@@ -267,7 +271,7 @@
     "uptimeYear": "100.00%",
     "time": 923,
     "timeDay": 720,
-    "timeWeek": 899,
+    "timeWeek": 923,
     "timeMonth": 898,
     "timeYear": 923,
     "dailyMinutesDown": {}
