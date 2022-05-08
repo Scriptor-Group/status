@@ -130,10 +130,10 @@
     "url": "https://www.tzar.fr",
     "icon": "https://favicons.githubusercontent.com/www.tzar.fr",
     "slug": "tzar-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
     "time": 1337,
@@ -142,6 +142,7 @@
     "timeMonth": 1348,
     "timeYear": 1337,
     "dailyMinutesDown": {
+      "2022-05-08": 0,
       "2022-05-04": 47
     }
   },
@@ -150,10 +151,10 @@
     "url": "https://api.tzar.fr/health",
     "icon": "https://favicons.githubusercontent.com/api.tzar.fr",
     "slug": "tzar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
     "time": 990,
@@ -162,6 +163,7 @@
     "timeMonth": 1001,
     "timeYear": 990,
     "dailyMinutesDown": {
+      "2022-05-08": 0,
       "2022-05-04": 47
     }
   },
@@ -225,11 +227,11 @@
     "icon": "https://favicons.githubusercontent.com/office-b.clavus.io",
     "slug": "office-b",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.74%",
+    "uptimeWeek": "97.17%",
     "uptimeMonth": "98.27%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 581,
     "timeDay": 443,
     "timeWeek": 568,
