@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/www.clavus.io",
     "slug": "clavus-website-public-1",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1637,
     "timeDay": 1737,
     "timeWeek": 1483,
     "timeMonth": 1571,
     "timeYear": 1637,
-    "dailyMinutesDown": {
-      "2022-05-18": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Clavus Website (Public 1)",
@@ -61,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/tzar.clavus.cloud",
     "slug": "clavus-website-public-1",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1637,
     "timeDay": 1737,
     "timeWeek": 1483,
     "timeMonth": 1571,
     "timeYear": 1637,
-    "dailyMinutesDown": {
-      "2022-05-18": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Clavus Website (C1)",
