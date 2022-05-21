@@ -1,7 +1,7 @@
 url: https://api.tzar.fr/health
-status: up
-code: 404
-responseTime: 1133
-lastUpdated: 2022-05-20T23:05:12.921Z
+status: down
+code: 502
+responseTime: 1074
+lastUpdated: 2022-05-21T13:21:18.362Z
 startTime: Mon Mar 07 2022 10:29:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
