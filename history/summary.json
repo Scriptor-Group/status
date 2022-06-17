@@ -220,10 +220,10 @@
     "url": "163.172.44.120",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "smtp-2-private",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.79%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "97.78%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.81%",
     "time": 109,
@@ -232,6 +232,7 @@
     "timeMonth": 112,
     "timeYear": 109,
     "dailyMinutesDown": {
+      "2022-06-17": 0,
       "2022-06-11": 130,
       "2022-06-10": 93,
       "2022-05-30": 52
