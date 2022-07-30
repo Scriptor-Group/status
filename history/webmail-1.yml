@@ -1,7 +1,7 @@
 url: https://webmail.clavus.io
-status: up
-code: 200
-responseTime: 827
-lastUpdated: 2022-07-29T23:05:25.490Z
+status: down
+code: 502
+responseTime: 616
+lastUpdated: 2022-07-30T11:04:27.447Z
 startTime: Mon Mar 07 2022 10:45:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
