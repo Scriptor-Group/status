@@ -397,19 +397,19 @@
     "url": "$PRODUCTION3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "p3-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 137,
-    "timeWeek": 107,
-    "timeMonth": 111,
+    "timeDay": 110,
+    "timeWeek": 104,
+    "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2022-08-18": 0
+      "2022-08-18": 9
     }
   },
   {
