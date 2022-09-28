@@ -61,6 +61,8 @@ sites:
     url: https://office-a.clavus.io/welcome/
   - name: Office B
     url: https://office-b.clavus.io/welcome/
+  - name: Office C
+    url: $OFFICE_C
   - name: Meet (visio)
     url: https://meet.clavus.io/
   - name: Webmail 1
