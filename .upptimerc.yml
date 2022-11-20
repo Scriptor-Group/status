@@ -51,7 +51,7 @@ sites:
       - 404
   - name: SMTP 1 (clavus.io)
     check: "tcp-ping"
-    url: 163.172.93.27
+    url: 51.158.112.37
     port: 465
   - name: SMTP 2 (private)
     check: "tcp-ping"
