@@ -273,7 +273,7 @@
     "uptimeYear": "99.58%",
     "time": 111,
     "timeDay": 139,
-    "timeWeek": 111,
+    "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -304,10 +304,10 @@
     "url": "https://office-a.clavus.io/welcome/",
     "icon": "https://icons.duckduckgo.com/ip3/office-a.clavus.io.ico",
     "slug": "office-a",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 599,
@@ -316,6 +316,7 @@
     "timeMonth": 630,
     "timeYear": 599,
     "dailyMinutesDown": {
+      "2023-02-03": 1,
       "2022-09-16": 579,
       "2022-09-15": 595,
       "2022-06-30": 196
