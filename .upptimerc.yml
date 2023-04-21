@@ -53,10 +53,6 @@ sites:
     check: "tcp-ping"
     url: 51.158.112.37
     port: 465
-  - name: Office A
-    url: https://office-a.clavus.io/welcome/
-  - name: Office B
-    url: https://office-b.clavus.io/welcome/
   - name: Office C
     url: $OFFICE_C
   - name: Meet (visio)
