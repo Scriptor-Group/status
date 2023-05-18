@@ -6,9 +6,9 @@
     "slug": "scriptor-artis-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 908,
     "timeDay": 7215,
@@ -16,7 +16,6 @@
     "timeMonth": 1270,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2023-05-17": 5,
       "2022-06-28": 18
     }
   },
