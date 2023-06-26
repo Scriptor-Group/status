@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clavus.io.ico",
     "slug": "clavus-website-public-1",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tzar.clavus.cloud.ico",
     "slug": "clavus-website-public-1",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -258,10 +258,10 @@
     "url": "$OFFICE_C",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "office-c",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 731,
@@ -269,7 +269,9 @@
     "timeWeek": 791,
     "timeMonth": 733,
     "timeYear": 731,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-26": 1
+    }
   },
   {
     "name": "Meet (visio)",
