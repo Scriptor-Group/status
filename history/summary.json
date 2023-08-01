@@ -24,9 +24,9 @@
     "slug": "clavus-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 702,
     "timeDay": 808,
@@ -34,7 +34,6 @@
     "timeMonth": 831,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2023-08-01": 8,
       "2022-12-25": 34,
       "2022-11-02": 52
     }
@@ -46,9 +45,9 @@
     "slug": "clavus-website-public-1",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1858,
     "timeDay": 1487,
@@ -56,7 +55,6 @@
     "timeMonth": 1810,
     "timeYear": 1859,
     "dailyMinutesDown": {
-      "2023-08-01": 8,
       "2023-02-28": 20,
       "2022-12-25": 34,
       "2022-11-02": 44,
@@ -71,9 +69,9 @@
     "slug": "clavus-website-public-1",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1858,
     "timeDay": 1487,
@@ -81,7 +79,6 @@
     "timeMonth": 1810,
     "timeYear": 1859,
     "dailyMinutesDown": {
-      "2023-08-01": 8,
       "2023-02-28": 20,
       "2022-12-25": 34,
       "2022-11-02": 44,
@@ -276,10 +273,10 @@
     "url": "https://meet.clavus.io/",
     "icon": "https://icons.duckduckgo.com/ip3/meet.clavus.io.ico",
     "slug": "meet-visio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 714,
@@ -287,7 +284,9 @@
     "timeWeek": 680,
     "timeMonth": 733,
     "timeYear": 719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-01": 1
+    }
   },
   {
     "name": "Webmail 1",
@@ -295,7 +294,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.clavus.io.ico",
     "slug": "webmail-1",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
