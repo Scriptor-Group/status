@@ -1,7 +1,7 @@
 url: https://api-v2.clavus.io/health
-status: down
-code: 503
-responseTime: 831
-lastUpdated: 2024-01-26T06:26:27.062Z
+status: up
+code: 200
+responseTime: 1014
+lastUpdated: 2024-01-26T09:04:58.344Z
 startTime: 2022-03-07T10:29:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
