@@ -4,19 +4,19 @@
     "url": "https://www.scriptor-artis.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.scriptor-artis.com.ico",
     "slug": "scriptor-artis-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 873,
-    "timeDay": 581,
-    "timeWeek": 755,
-    "timeMonth": 848,
+    "timeDay": 591,
+    "timeWeek": 735,
+    "timeMonth": 841,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2024-02-28": 0
+      "2024-02-28": 7
     }
   },
   {
@@ -175,7 +175,7 @@
     "timeMonth": 1281,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2024-02-28": 1269,
+      "2024-02-28": 1276,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -248,7 +248,7 @@
     "timeMonth": 1168,
     "timeYear": 1241,
     "dailyMinutesDown": {
-      "2024-02-28": 1269,
+      "2024-02-28": 1276,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
