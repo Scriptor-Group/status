@@ -4,19 +4,19 @@
     "url": "https://www.scriptor-artis.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.scriptor-artis.com.ico",
     "slug": "scriptor-artis-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 906,
-    "timeDay": 8806,
-    "timeWeek": 4834,
-    "timeMonth": 1945,
+    "timeDay": 6146,
+    "timeWeek": 4469,
+    "timeMonth": 1913,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2024-03-22": 0
+      "2024-03-22": 7
     }
   },
   {
@@ -164,7 +164,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tzar.fr.ico",
     "slug": "tzar-website",
     "status": "down",
-    "uptime": "90.59%",
+    "uptime": "90.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -175,7 +175,7 @@
     "timeMonth": 1281,
     "timeYear": 2084,
     "dailyMinutesDown": {
-      "2024-03-22": 669,
+      "2024-03-22": 677,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
@@ -271,7 +271,7 @@
     "timeMonth": 1232,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2024-03-22": 669,
+      "2024-03-22": 677,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
