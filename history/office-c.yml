@@ -1,7 +1,7 @@
 url: $OFFICE_C
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-22T23:05:14.193Z
+status: up
+code: 200
+responseTime: 646
+lastUpdated: 2024-03-22T23:11:35.767Z
 startTime: 2022-09-28T13:34:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
