@@ -4,19 +4,19 @@
     "url": "https://www.scriptor-artis.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.scriptor-artis.com.ico",
     "slug": "scriptor-artis-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 821,
-    "timeWeek": 976,
-    "timeMonth": 817,
-    "timeYear": 996,
+    "time": 985,
+    "timeDay": 1224,
+    "timeWeek": 1057,
+    "timeMonth": 843,
+    "timeYear": 998,
     "dailyMinutesDown": {
-      "2024-09-03": 3
+      "2024-09-03": 5
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 1677,
     "dailyMinutesDown": {
-      "2024-09-03": 534,
+      "2024-09-03": 539,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -324,7 +324,7 @@
     "timeMonth": 350,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-09-03": 534,
+      "2024-09-03": 539,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -511,7 +511,7 @@
     "timeMonth": 0,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2024-09-03": 534,
+      "2024-09-03": 539,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -754,7 +754,7 @@
     "timeMonth": 0,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2024-09-03": 534,
+      "2024-09-03": 539,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -1175,7 +1175,7 @@
     "timeMonth": 0,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-09-03": 534,
+      "2024-09-03": 539,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -1425,7 +1425,7 @@
     "timeMonth": 0,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-09-03": 534,
+      "2024-09-03": 539,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
