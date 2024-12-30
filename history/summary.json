@@ -4,19 +4,19 @@
     "url": "https://www.scriptor-artis.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.scriptor-artis.com.ico",
     "slug": "scriptor-artis-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 731,
-    "timeWeek": 712,
+    "time": 964,
+    "timeDay": 788,
+    "timeWeek": 729,
     "timeMonth": 846,
-    "timeYear": 1001,
+    "timeYear": 1000,
     "dailyMinutesDown": {
-      "2024-12-30": 4
+      "2024-12-30": 10
     }
   },
   {
@@ -83,7 +83,7 @@
     "timeMonth": 0,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2024-12-30": 210,
+      "2024-12-30": 219,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -413,7 +413,7 @@
     "timeMonth": 352,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2024-12-30": 210,
+      "2024-12-30": 219,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -716,7 +716,7 @@
     "timeMonth": 0,
     "timeYear": 1432,
     "dailyMinutesDown": {
-      "2024-12-30": 210,
+      "2024-12-30": 219,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -1075,7 +1075,7 @@
     "timeMonth": 0,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2024-12-30": 210,
+      "2024-12-30": 219,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -1601,7 +1601,7 @@
     "timeMonth": 0,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-12-30": 210,
+      "2024-12-30": 219,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -1898,14 +1898,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "22.94%",
+    "uptimeYear": "22.93%",
     "time": 109,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-12-30": 210,
+      "2024-12-30": 219,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
