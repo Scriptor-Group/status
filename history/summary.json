@@ -4,19 +4,19 @@
     "url": "https://www.scriptor-artis.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.scriptor-artis.com.ico",
     "slug": "scriptor-artis-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 998,
-    "timeDay": 663,
-    "timeWeek": 830,
-    "timeMonth": 1491,
-    "timeYear": 1046,
+    "time": 1001,
+    "timeDay": 1480,
+    "timeWeek": 1013,
+    "timeMonth": 1515,
+    "timeYear": 1049,
     "dailyMinutesDown": {
-      "2025-02-20": 3
+      "2025-02-20": 10
     }
   },
   {
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 1734,
     "dailyMinutesDown": {
-      "2025-02-20": 1220,
+      "2025-02-20": 1230,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -457,7 +457,7 @@
     "timeMonth": 342,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-02-20": 1220,
+      "2025-02-20": 1230,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -811,7 +811,7 @@
     "timeMonth": 0,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2025-02-20": 1220,
+      "2025-02-20": 1230,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -1195,7 +1195,7 @@
     "timeMonth": 0,
     "timeYear": 1221,
     "dailyMinutesDown": {
-      "2025-02-20": 1220,
+      "2025-02-20": 1230,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -1739,7 +1739,7 @@
     "timeMonth": 0,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-02-20": 1221,
+      "2025-02-20": 1230,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -2093,7 +2093,7 @@
     "timeMonth": 0,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-02-20": 1221,
+      "2025-02-20": 1230,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
