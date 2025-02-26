@@ -4,19 +4,19 @@
     "url": "https://www.scriptor-artis.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.scriptor-artis.com.ico",
     "slug": "scriptor-artis-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1047,
-    "timeDay": 13403,
-    "timeWeek": 3401,
-    "timeMonth": 2167,
-    "timeYear": 1113,
+    "time": 1046,
+    "timeDay": 9156,
+    "timeWeek": 3152,
+    "timeMonth": 2126,
+    "timeYear": 1112,
     "dailyMinutesDown": {
-      "2025-02-26": 3
+      "2025-02-26": 5
     }
   },
   {
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 1718,
     "dailyMinutesDown": {
-      "2025-02-26": 341,
+      "2025-02-26": 347,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -463,7 +463,7 @@
     "timeMonth": 355,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-02-26": 341,
+      "2025-02-26": 347,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -823,7 +823,7 @@
     "timeMonth": 0,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2025-02-26": 342,
+      "2025-02-26": 347,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -1207,7 +1207,7 @@
     "timeMonth": 0,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2025-02-26": 342,
+      "2025-02-26": 347,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -1751,7 +1751,7 @@
     "timeMonth": 0,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-02-26": 342,
+      "2025-02-26": 347,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -2111,7 +2111,7 @@
     "timeMonth": 0,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-02-26": 342,
+      "2025-02-26": 347,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
