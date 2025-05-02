@@ -4,19 +4,19 @@
     "url": "https://www.scriptor-artis.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.scriptor-artis.com.ico",
     "slug": "scriptor-artis-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1219,
-    "timeDay": 12446,
-    "timeWeek": 4984,
-    "timeMonth": 2722,
-    "timeYear": 1234,
+    "time": 1218,
+    "timeDay": 8497,
+    "timeWeek": 4586,
+    "timeMonth": 2662,
+    "timeYear": 1232,
     "dailyMinutesDown": {
-      "2025-05-02": 3
+      "2025-05-02": 5
     }
   },
   {
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 1258,
+      "2025-05-02": 1263,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -482,7 +482,7 @@
     "timeMonth": 327,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2025-05-02": 1258,
+      "2025-05-02": 1264,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -866,7 +866,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 1258,
+      "2025-05-02": 1264,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -1250,7 +1250,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 1259,
+      "2025-05-02": 1264,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -1760,7 +1760,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 1259,
+      "2025-05-02": 1264,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -2144,7 +2144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 1259,
+      "2025-05-02": 1264,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
