@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 566,
+      "2025-05-15": 576,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -480,7 +480,7 @@
     "timeMonth": 356,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-05-15": 566,
+      "2025-05-15": 576,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -864,7 +864,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 566,
+      "2025-05-15": 576,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -1248,7 +1248,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 566,
+      "2025-05-15": 577,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -1746,7 +1746,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 567,
+      "2025-05-15": 577,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -2130,7 +2130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 567,
+      "2025-05-15": 577,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -2502,19 +2502,19 @@
     "url": "https://www.devana.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.devana.ai.ico",
     "slug": "devana-ai-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
-    "time": 1160,
-    "timeDay": 857,
-    "timeWeek": 1225,
-    "timeMonth": 1289,
+    "time": 1159,
+    "timeDay": 952,
+    "timeWeek": 1203,
+    "timeMonth": 1281,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2025-05-15": 1,
+      "2025-05-15": 10,
       "2024-09-01": 155
     }
   }
