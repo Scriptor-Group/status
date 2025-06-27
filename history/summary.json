@@ -4,19 +4,19 @@
     "url": "https://www.scriptor-artis.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.scriptor-artis.com.ico",
     "slug": "scriptor-artis-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1356,
-    "timeDay": 13748,
-    "timeWeek": 3966,
-    "timeMonth": 2792,
+    "time": 1357,
+    "timeDay": 9565,
+    "timeWeek": 3659,
+    "timeMonth": 2749,
     "timeYear": 1358,
     "dailyMinutesDown": {
-      "2025-06-27": 3
+      "2025-06-27": 7
     }
   },
   {
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 1199,
+      "2025-06-27": 1206,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -482,7 +482,7 @@
     "timeMonth": 316,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2025-06-27": 1199,
+      "2025-06-27": 1206,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -866,7 +866,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 1199,
+      "2025-06-27": 1206,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -1250,7 +1250,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 1199,
+      "2025-06-27": 1206,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -1740,7 +1740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 1199,
+      "2025-06-27": 1206,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -2124,7 +2124,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 1199,
+      "2025-06-27": 1206,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
